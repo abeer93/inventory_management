@@ -1,8 +1,5 @@
 # Inventory Management API
-
-Project Brief
-    Purpose:
-        This project is a simplified RESTful API for managing inventory across multiple warehouses. It allows CRUD operations on warehouses, inventory items, stock, and stock transfers.
+This project is a simplified RESTful API for managing inventory across multiple warehouses. It allows CRUD operations on warehouses, inventory items, stock, and stock transfers.
 
 ### Key Features:
 1. Manage warehouses and inventory items.
